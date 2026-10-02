@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+node_modules/
+.next/
+out/
+build/
+.vercel/
+.env*
+!.env.example
+.DS_Store
+data/sources/
+
+# typescript / next.js
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+coverage/
